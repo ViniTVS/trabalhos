@@ -1,0 +1,8 @@
+Exercícios:
+1) Crie uma classe Nodo parametrizada que possua os atributos elemento, esq e dir;
+2) Crie uma classe Arvore que seja uma árvore de busca, parametrizada com os
+métodos insere(elemento), tamanho() e vazia().
+3) Crie uma classe CadastraAluno com o método insereAluno(nome, email, grr) que
+cria um objeto Aluno e o insira na árvore.
+4) Crie uma interface com o usuáro que leia os dados de um aluno e o cadastre
+usando a classe CadastraAluno.

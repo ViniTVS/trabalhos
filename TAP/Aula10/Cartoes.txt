@@ -1,0 +1,8 @@
+﻿Nome da Classe: GravarAlunos
+Responsabilidades:  Receber dados da ListaGravar dados em arquivo texto
+Colaboradores: ListaDeAlunos
+ 
+Nome da Classe: RemoverAluno
+Responsabilidades:  Receber dados do Aluno a ser removidoRemover Aluno da Lista
+Colaboradores: ListaDeAlunos Aluno
+ 
